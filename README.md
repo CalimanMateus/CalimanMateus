@@ -6,3 +6,6 @@
 ![HTML](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ![Mateus C. A. GitHub stats](https://github-readme-stats.vercel.app/api?username=CalimanMateus&show_icons=true&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalimanMateus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
