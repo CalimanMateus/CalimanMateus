@@ -9,8 +9,5 @@
 ![HTML](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ![Mateus C. A. GitHub stats](https://github-readme-stats.vercel.app/api?username=CalimanMateus&show_icons=true&theme=merko)
-
-![Mateus C. A. GitHub stats](https://github-readme-stats.vercel.app/api?username=CalimanMateus&show_icons=true&theme=transparent)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalimanMateus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
