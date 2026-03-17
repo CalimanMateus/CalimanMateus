@@ -1,6 +1,6 @@
 # 🐙🦈 Mateus Caliman
 
-**Resdes de computadores (em formação) | Cybersecurity | Full Stack Developer | Networking**
+**Resdes de computadores (em formação) | Full Stack Developer | Networking**
 
 ## 🚀 Technologies & Skills
 
