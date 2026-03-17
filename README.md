@@ -17,10 +17,11 @@
 
 ---
 
+---
+
 <div align="center">
 
-# 🐙💜
-
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="350"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWd1cDhwd21pbzJyOWNuaGMxMWRkNmVjc3k4OWt6cTFsejRlMjNueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EfKrPpzsn3qH08brxt/giphy.gif" width="420"/>
 
 </div>
+
