@@ -16,7 +16,7 @@
 [![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=A259FF)](https://vitejs.dev/)
 ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=FF4500)
 ![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=FF6A00)
-<img src="https://img.shields.io/badge/Monitoring%20Real%20Time-000000?style=for-the-badge" style="filter: invert(72%) sepia(94%) saturate(748%) hue-rotate(65deg) brightness(110%) contrast(120%);" />
+<img src="https://img.shields.io/badge/Monitoring%20Real%20Time-000000?style=for-the-badge" style="filter: invert(84%) sepia(91%) saturate(500%) hue-rotate(60deg) brightness(120%) contrast(130%);" />
 [![Bash](https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnu-bash&logoColor=39FF14)](https://www.gnu.org/software/bash/)
 [![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14)](https://www.python.org/)
 
